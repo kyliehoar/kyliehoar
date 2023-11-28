@@ -1,4 +1,4 @@
-Hi, my name is Kylie Hoar!
-  I am a student at Worcester Polytechnic Institute in Worcester, MA, and pursuing a double major in data science, 
-  and bioinformatics and computational biology. Right now my interests lie with genetics, pipeline creation, and Nextflow.
-  If you are interested in reaching out, please email me at kyliehoar10@gmail.com.
+Hello!
+  My name is Kylie Hoar, and I am undergraduate student at Worcester Polytechnic Institute in Worcester, MA. I am currently 
+  pursuing a Bachelors in Bioinformatics and Computational Biology, and a Bachelors in Data Science. I am actively seeking
+  an intership for the summer of 2024, and would love to chat! Please email me at kyliehoar10@gmail.com for any inquiries.
