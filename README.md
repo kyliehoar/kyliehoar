@@ -1,4 +1,4 @@
-Database Systems topics covered in each file:
+Database Systems projects completed in each file:
 
 tour_data and tour1a/1b/2a/2b/3 - Designed an SQL file that mimics an ERD for a tour company
 
