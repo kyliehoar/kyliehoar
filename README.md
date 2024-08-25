@@ -1,6 +1,7 @@
 Algorithms covered in each folder:
 
 hw_1 - 
+    
     ComputeRectangle - This method must return a Location object which records the (startr,startc,r,c) of the rectangle that you found within the EmbeddedRectangle
 
     DigitRepresentation - This function will construct a stack containing the digits (in base b) of n in reverse order such that the topmost value on the returned stack will       be the leftmost digit representation of n in base b
@@ -19,6 +20,7 @@ hw_1 -
     Strassen - Utilized for EmpiricalEvaluation
 
 hw_2 - 
+    
     Analysis - Given the following proc function, let S(N) be the number of times power(base, exp) is invoked when calling proc(A, 0, n-1) on an array, A, of length n
     containing integer values from 0 to n-1
 
@@ -32,6 +34,7 @@ hw_2 -
     ValidateMemory - Connects to Memory Class
 
 hw_3 - 
+    
     BST - Implement special functions into BST class to expand its functionalities
 
     MaxPQ - Utilize this class for MergeMaxPQ
@@ -43,6 +46,7 @@ hw_3 -
     TrialST - Use the following domain to evaluate the performance of these different ST implementations in terms of the number of times equals() is called
 
 hw_4 - 
+    
     Connected - Answers the question: Is it possible to use a single airline carrier (either Delta or Southwest Airlines) and start from Boston Logan Airport (whose ICAO code
     is “KBOS”) and fly to every other airport (using any number of connecting flights) in that carrier’s network by only using that carrier?
 
