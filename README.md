@@ -11,3 +11,5 @@ Machine Learning topics covered in each file:
   Assignment_5 - polynomial regression, random forest classification, decision tree regression and bagging regression for optimization (best subsets), and random forest regression
 
   Assignment_6 - support vector classifiers/modeling/machine, SVC kernel manipulation, SVM plotting, hierarchical clustering, dendrograms
+
+  hw_4 - utilizing logistic regression, KNN, and random forest to predict what numbers are being displayed by visual images of numbers on a black background
