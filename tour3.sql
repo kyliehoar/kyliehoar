@@ -1,9 +1,8 @@
--- PART 3
-
---Housekeeping/testing prior to Question 1
+-- Drop NewGuide and its sequence (so that the file can be run more than once)
 drop table NewGuide;
 drop sequence newGuideID_seq;
 
+-- Create NewGuide table to account for new employees added after company "acquisition"
 create table NewGuide (
 	newGuideID number(2),
 	firstName varchar2(15),
@@ -25,15 +24,14 @@ insert into NewGuide values (newGuideID_seq.nextval, 'Chloe', 'Jones', '50973848
 insert into NewGuide values (newGuideID_seq.nextval, 'Ben', 'Miller', '58442323', 'Junior Guide', 32080, 'both');
 select * from NewGuide;
 
--- 1
--- include table insert with sample values
+-- For all guide titles, display the sum of the salaries being paid (Guide and New Guide)
 select G.title, sum(GSalary) + sum(NGSalary) AS Sum
 from (select title, sum(salary) as GSalary from Guide group by title) G,
      (select title, sum(salary) as NGSalary from NewGuide group by title) NG
 where G.title = NG.title
 group by G.title;
 
--- 2
+-- Determine the customer who will make the most number of visits to tour locations
 select firstName, lastName, count(distinct locationID) as Visits
 from Customer C
 join ReservedTour RT on C.customerID = RT.customerID
@@ -48,13 +46,14 @@ having count(distinct locationID) = (select Max(CNT) as MaxCount
                                             join Customer C on RT.customerID = C.customerID
                                             group by firstName, lastName));
 
---Housekeeping/testing prior to Question 3
+-- Drop SFBook and Stock and their sequences (so that the file can be run more than once)
 drop table SFBook;
 drop table Stock;
 
 drop sequence ISBN_seq;
 drop sequence warehouseCode_seq;
 
+-- Create SFBook and Stock tables
 create table SFBook (
     ISBN number(10),
     title varchar2(20),
@@ -98,7 +97,7 @@ insert into Stock values (warehouseCode_seq.nextval, 6, 'Nebraska', 3);
 insert into Stock values (warehouseCode_seq.nextval, 7, 'Worcester', 20);
 Select * from Stock;
 
--- 3
+-- Report the warehouse code and city for warehouses that stock fewer than 10 copies of any book published by the publisher 'Wiley'
 select warehouseCode, city
 from (select warehouseCode, city, sum(numberOfBooks) as SUM 
                                 from Stock S 

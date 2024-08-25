@@ -1,3 +1,4 @@
+-- Drop FKs, sequences, and tables (so that the file can be run more than once)
 alter table Edge
 drop constraint startLoc_FK;
 alter table Hallway
@@ -28,6 +29,7 @@ drop table AssignedTo;
 drop table EmployeePhoneNum;
 drop table Title;
 
+-- Create tables to model the CSFullerDirectory data (Location, Edge, Path, HasAnOrderedList, Hallway, Office, Employee, AssignedTo, EmployeePhoneNum, and Title)
 create table Location(
     locationID varchar2(4),
     locationName varchar2(30),

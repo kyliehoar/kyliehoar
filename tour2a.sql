@@ -1,5 +1,4 @@
--- Assignment 2
--- Part 1.1
+-- Drop ReservedTours, Customers, Tours, Locations, and Guides (so that the file can be run more than once)
 drop table ReservedTour;
 drop table Customer;
 drop table Location;
@@ -7,14 +6,14 @@ drop table Tour;
 drop table Guide;
 drop table NewGuide;
 
--- Part 1.2
+-- Drop sequences created
 drop sequence customerID_seq;
 drop sequence tourID_seq;
 drop sequence guideID_seq;
 drop sequence reservedTourID_seq;
 drop sequence newGuideID_seq;
 
---Part 1.3
+-- Create ReservedTour, Customers, Tours, Locations, and Guides tables where
 create table Customer (
 	customerID number(3),
 	firstName varchar2(15),
