@@ -1,0 +1,1032 @@
+﻿ID,Name
+0,Liberty
+1,Randolph Col
+2,Valparaiso
+3,ETSU
+4,Texas Tech
+5,Loyola MD
+6,Kansas St
+7,Southern Utah
+8,Loyola-Chicago
+9,Rockhurst
+10,NC A&T
+11,Greensboro
+12,Norfolk St
+13,Pfeiffer
+14,Missouri St
+15,E Illinois
+16,Alabama St
+17,Auburn M'gomery
+18,Michigan St
+19,Navy
+20,Louisiana Tech
+21,Southern Univ
+22,Missouri KC
+23,Missouri
+24,Incarnate Word
+25,UT Tyler
+26,Illinois
+27,Ga Southern
+28,Wisconsin
+29,N Kentucky
+30,Notre Dame
+31,Binghamton
+32,Loy Marymount
+33,SE Missouri St
+34,Lipscomb
+35,Berry
+36,Creighton
+37,Cent Arkansas
+38,Col Charleston
+39,Furman
+40,UT San Antonio
+41,Huston-Tillot
+42,TX Pan American
+43,Wayland
+44,Colorado
+45,Drexel
+46,Arizona
+47,Mt St Mary's
+48,Kentucky
+49,Grand Canyon
+50,North Carolina
+51,NC Central
+52,Akron
+53,UMBC
+54,Stetson
+55,Edward Waters
+56,Hofstra
+57,Jacksonville
+58,Georgia St
+59,TN Temple
+60,TAM C. Christi
+61,Our Lady Lake
+62,SF Austin
+63,Mississippi Col
+64,Tennessee St
+65,Reinhardt
+66,Edwardsville
+67,Harris-Stowe
+68,Abilene Chr
+69,Hillsdale Bap
+70,ULL
+71,Louisiana Col
+72,Troy
+73,Brewton-Parker
+74,Texas A&M
+75,Northwestern LA
+76,Northwestern
+77,Houston Bap
+78,Alabama
+79,Towson
+80,St Mary's CA
+81,Cal St-LA
+82,Auburn
+83,WI Milwaukee
+84,Stanford
+85,Wofford
+86,UCLA
+87,Montana St
+88,UC Irvine
+89,Chapman
+90,San Diego St
+91,CS Northridge
+92,UNLV
+93,Morehead St
+94,Santa Clara
+95,CS Fullerton
+96,Washington
+97,S Carolina St
+98,Oregon
+99,Coppin St
+100,Sacred Heart
+101,Hartford
+102,Villanova
+103,Lehigh
+104,Tennessee Tech
+105,Piedmont Bap
+106,High Point
+107,CS Bakersfield
+108,San Jose St
+109,Bethesda
+110,Boise St
+111,San Diego
+112,Hawaii
+113,Ark Pine Bluff
+114,Fordham
+115,NYIT
+116,Louisville
+117,Minnesota
+118,UTEP
+119,Washington St
+120,SMU
+121,Lamar
+122,Baylor
+123,McNeese St
+124,Iowa
+125,Hampton
+126,Marquette
+127,TN Martin
+128,Utah Valley
+129,South Dakota
+130,Gonzaga
+131,CS Sacramento
+132,Utah St
+133,Weber St
+134,N Colorado
+135,Black Hills St
+136,E Washington
+137,TX Southern
+138,Idaho
+139,Eastern Oregon
+140,Texas St
+141,Seattle
+142,Arizona St
+143,Chicago St
+144,Oregon St
+145,Rice
+146,California
+147,Alcorn St
+148,DePaul
+149,IL Chicago
+150,Portland
+151,Concordia OR
+152,New Mexico
+153,Idaho St
+154,Utah
+155,Ball St
+156,Pepperdine
+157,Fresno St
+158,South Florida
+159,Flagler
+160,East Carolina
+161,NC Wesleyan
+162,IPFW
+163,Manchester
+164,Connecticut
+165,Bryant
+166,Massachusetts
+167,Siena
+168,Iona
+169,Cleveland St
+170,Bucknell
+171,Marist
+172,Princeton
+173,Rider
+174,Pittsburgh
+175,Niagara
+176,Lafayette
+177,Robert Morris
+178,Wake Forest
+179,UNC Asheville
+180,Virginia
+181,James Madison
+182,NC State
+183,Jackson St
+184,Miami FL
+185,Howard
+186,Georgia Tech
+187,Georgia
+188,Virginia Tech
+189,MD E Shore
+190,C Michigan
+191,Alma
+192,Clemson
+193,Florida A&M
+194,Boston College
+195,New Hampshire
+196,Xavier
+197,Northern Arizona
+198,South Alabama
+199,Carroll MT
+200,Southern Miss
+201,Wm Carey
+202,E Michigan
+203,St Francis IL
+204,Sam Houston St
+205,Austin Col
+206,MTSU
+207,Ohio Valley
+208,Army
+209,Air Force
+210,Wichita St
+211,New Mexico St
+212,Florida Intl
+213,Florida Col
+214,Dayton
+215,Alabama A&M
+216,VMI
+217,Citadel
+218,Mississippi St
+219,W Carolina
+220,Florida
+221,William & Mary
+222,West Virginia
+223,Monmouth NJ
+224,VA Commonwealth
+225,Tennessee
+226,North Texas
+227,Ark Monticello
+228,Quinnipiac
+229,Yale
+230,Fairfield
+231,Central Conn
+232,Duke
+233,Presbyterian
+234,Chattanooga
+235,Hiwassee
+236,St John's
+237,NJIT
+238,Maryland
+239,Wagner
+240,Elon
+241,FL Atlantic
+242,Kansas
+243,Santa Barbara
+244,Iowa St
+245,Oakland
+246,Coastal Car
+247,Trinity Bap
+248,Buffalo
+249,S Dakota St
+250,Temple
+251,American Univ
+252,Campbell
+253,Barber-Scotia
+254,Richmond
+255,Radford
+256,Oklahoma St
+257,SE Louisiana
+258,Cincinnati
+259,St Francis PA
+260,Houston
+261,Murray St
+262,BYU
+263,Long Beach St
+264,Pacific
+265,W Illinois
+266,Indiana St
+267,IUPUI
+268,Texas
+269,N Dakota St
+270,TCU
+271,Prairie View
+272,UT Arlington
+273,Bradley
+274,Brown
+275,St Peter's
+276,Detroit
+277,Rochester MI
+278,Longwood
+279,Averett
+280,Charleston So
+281,Mississippi
+282,Cornell
+283,George Mason
+284,G Washington
+285,Grambling
+286,Purdue
+287,Samford
+288,Syracuse
+289,Kennesaw
+290,South Carolina
+291,North Florida
+292,UNC Greensboro
+293,Chowan
+294,Mercer
+295,Piedmont
+296,Rhode Island
+297,Pace
+298,Penn St
+299,Morgan St
+300,Ohio St
+301,MA Lowell
+302,E Kentucky
+303,Savannah St
+304,Wright St
+305,Belmont
+306,Indiana
+307,MS Valley St
+308,Stony Brook
+309,Columbia
+310,F Dickinson
+311,St Joseph's PA
+312,Marshall
+313,Jacksonville St
+314,Harvard
+315,MIT
+316,SC Upstate
+317,UC Riverside
+318,UC San Diego
+319,Oral Roberts
+320,Tulsa
+321,St Louis
+322,S Illinois
+323,Kent
+324,Youngstown St
+325,Nevada
+326,Cal Poly SLO
+327,Providence
+328,Albany NY
+329,S Francisco St
+330,St Bonaventure
+331,Dartmouth
+332,Duquesne
+333,Bluefield WV
+334,ULM
+335,UAB
+336,Colorado St
+337,Montana
+338,Portland St
+339,USC
+340,San Diego Chr
+341,Canisius
+342,Vermont
+343,Northern Iowa
+344,North Dakota
+345,Ohio
+346,Appalachian St
+347,Davidson
+348,Catholic
+349,FL Gulf Coast
+350,Nova SE
+351,Georgetown
+352,St Francis NY
+353,Old Dominion
+354,UNC Wilmington
+355,Florida St
+356,Manhattan
+357,Bethune-Cookman
+358,Trinity FL
+359,LSU
+360,Gardner Webb
+361,WI Green Bay
+362,IL Springfield
+363,Winthrop
+364,Butler
+365,Maine
+366,W Kentucky
+367,Austin Peay
+368,Delaware St
+369,Penn
+370,La Salle
+371,Colgate
+372,Michigan
+373,Hillsdale
+374,Evansville
+375,Earlham
+376,N Illinois
+377,Aurora
+378,Bowling Green
+379,Drake
+380,UCF
+381,Goucher
+382,NE Omaha
+383,Illinois St
+384,OH Dominican
+385,Denver
+386,Holy Cross
+387,San Francisco
+388,Northeastern
+389,Boston Univ
+390,Florida National
+391,LSU-Alexandria
+392,Rutgers
+393,UC Davis
+394,Holy Names
+395,Charlotte
+396,Miami OH
+397,Nebraska
+398,W Michigan
+399,Aquinas
+400,Arkansas
+401,Seton Hall
+402,Toledo
+403,Wyoming
+404,Oberlin
+405,Berea
+406,Oklahoma
+407,Vanderbilt
+408,Trevecca Naz
+409,Ark Little Rock
+410,Eureka
+411,Champion Bap
+412,Arkansas St
+413,Nicholls St
+414,McKendree
+415,Tulane
+416,Bap Bible PA
+417,Bristol
+418,Presentation
+419,Cal Lutheran
+420,Adams St
+421,Delaware
+422,Webber
+423,Young Harris
+424,MN Crookston
+425,IU Kokomo
+426,Franklin Pierce
+427,Lyon
+428,Erskine
+429,Newbury
+430,Warner
+431,Tiffin
+432,FDU Madison
+433,Cincinnati Chr
+434,Indiana NW
+435,Malone
+436,Mayville St
+437,NW Oklahoma St
+438,Memphis
+439,Corban
+440,Thomas ME
+441,Columbia Intl
+442,Hannibal-Lagr
+443,New Orleans
+444,Pensacola Chr
+445,Western St CO
+446,Willamette
+447,WV Tech
+448,Kentucky Chr
+449,College of Faith
+450,Johnson TN
+451,UVA-Wise
+452,Avila
+453,IN S Bend
+454,Missouri S&T
+455,Notre Dame CA
+456,Simpson CA
+457,S Vermont
+458,Hawaii Hilo
+459,Colorado Chr
+460,Walla Walla
+461,S Virginia
+462,Toccoa Falls
+463,Hartwick
+464,Long Island
+465,J&W NC
+466,Fisk
+467,Brescia
+468,Bluefield VA
+469,Pacific Union
+470,Bob Jones
+471,Palm Beach Atl
+472,Eckerd
+473,VA-Lynchburg
+474,Old Westbury
+475,Keystone
+476,FL Memorial
+477,Jarvis Chr
+478,Transylvania
+479,Southern N.O.
+480,Oakwood
+481,Ohio Mid-Western
+482,Cin Clermont
+483,The Master's
+484,Trinity Chr
+485,TX A&M K'ville
+486,Johnson FL
+487,Thomas Aquinas
+488,Miles
+489,Hood
+490,St Katherine
+491,Merchant Marine
+492,Catawba
+493,Newman
+494,Nichols
+495,Chadron St
+496,Clayton St
+497,Chaminade
+498,Dillard
+499,Texas A&M Intl
+500,St Xavier IL
+501,Peace
+502,Mt Ida
+503,AK Anchorage
+504,PSU-Harrisburg
+505,Wayne St NE
+506,Emerson
+507,Dallas Chr
+508,Greenville
+509,Wm Jewell
+510,Univ of Southwest
+511,Warren Wilson
+512,Brevard
+513,Concordia SP
+514,Missouri Val
+515,Olivet Naz
+516,Gwynedd-Mercy
+517,Langston
+518,Howard Payne
+519,PSU Mont Alto
+520,Fort Valley St
+521,J&W RI
+522,Ave Maria
+523,Goldey Beacom
+524,Pac Lutheran
+525,MN Duluth
+526,Marygrove
+527,MT Western
+528,Spring Hill
+529,St Andrew's
+530,Mid-Atlantic Chr
+531,Bethel TN
+532,TX Lutheran
+533,Schreiner
+534,CSU East Bay
+535,S Dakota Tech
+536,Florida Tech
+537,St Edward's
+538,Univ Sciences
+539,Mid Georgia
+540,Crowley's Ridge
+541,Wheelock
+542,Loyola NO
+543,Menlo
+544,MT-Great Falls
+545,Thomas GA
+546,Vanguard
+547,Belhaven MS
+548,Selma AL
+549,Ouachita
+550,Thiel
+551,Regis CO
+552,Urbana
+553,Central Penn
+554,Limestone
+555,Caldwell
+556,Montreat And
+557,Morrisville St
+558,Mars Hill
+559,Trinity IL
+560,SE Oklahoma
+561,Iowa Wesleyan
+562,NW Nazarene
+563,MI Dearborn
+564,Tusculum
+565,N New Mexico
+566,Arlington Bap
+567,Arkansas-FS
+568,Mt St Vincent
+569,Centenary
+570,Mitchell
+571,Mt Vernon Naz
+572,Northwest WA
+573,Central Bap
+574,Susquehanna
+575,King TN
+576,Truman St
+577,Milligan
+578,Ferrum
+579,Oakland City
+580,CS Dom. Hills
+581,St Thomas TX
+582,Stillman
+583,Washington MD
+584,Dickinson St ND
+585,Case Western
+586,Wilberforce
+587,Concordia MI
+588,Truett-McConnell
+589,Bluffton
+590,Arkansas Tech
+591,PSU-Beaver
+592,St Joseph's IN
+593,Coker
+594,Goshen
+595,Ferris St
+596,Simpson IA
+597,Lewis-Clark ID
+598,Lewis & Clark
+599,Haskell
+600,Coast Guard
+601,Northland
+602,R Morris Spfd
+603,Northwest Chr
+604,Judson IL
+605,Midwest TX St
+606,S Arkansas
+607,Alice Lloyd
+608,Capital
+609,Wentworth Tech
+610,Quincy
+611,Ecclesia
+612,St Catharine
+613,Concordia AL
+614,Anderson IN
+615,Cameron
+616,Hampden-Sydney
+617,La Verne
+618,Cal Maritime
+619,Fresno Pacific
+620,North Alabama
+621,Rhodes
+622,Cheyney St
+623,St Rose
+624,Allen
+625,NM Highlands
+626,Daniel Webster
+627,Alfred St
+628,Lyndon St
+629,MT Tech
+630,St Joseph's NY
+631,Albion
+632,Rowan
+633,Tabor
+634,Baker KS
+635,Paine
+636,Fisher
+637,Texas Col
+638,ME Ft Kent
+639,Sarah Lawrence
+640,Jackson State
+641,Missouri State
+642,Pennsylvania
+643,Oregon Tech
+644,Massachusetts-Lowell
+645,Northern Illinois
+646,Cal State Northridge
+647,Saint Francis (PA)
+648,Oklahoma State
+649,Tennessee-Martin
+650,Saint Joseph's
+651,Saint Mary's (CA)
+652,San Francisco State
+653,San Diego State
+654,Illinois State
+655,Saint Peter's
+656,American
+657,North Carolina A&T
+658,Rutgers-Newark
+659,Jarvis Christian
+660,Mississippi State
+661,Eastern Washington
+662,Boise State
+663,Murray State
+664,Morehead State
+665,Cincinnati Christian
+666,Northern Michigan
+667,Michigan State
+668,Florida Atlantic
+669,Northwestern State
+670,Missouri-Kansas City
+671,North Carolina State
+672,New Mexico State
+673,Houston Baptist
+674,Minnesota-Morris
+675,North Carolina-Wilmington
+676,UC-Santa Barbara
+677,Nebraska-Omaha
+678,Lyndon State
+679,Texas Southern
+680,Nevada-Las Vegas
+681,Cal Poly
+682,Morgan State
+683,Fairleigh Dickinson
+684,Maryland-Baltimore County
+685,Virginia Commonwealth
+686,Monmouth
+687,Wright State
+688,Bristol University
+689,Miami (OH)
+690,Western Illinois
+691,Washington State
+692,Utah State
+693,Weber State
+694,Wichita State
+695,Charleston Southern
+696,Northern Kentucky
+697,South Dakota State
+698,Chadron State
+699,Southern California
+700,Southern Illinois-Edwardsville
+701,Arkansas State
+702,Southern Illinois
+703,Savannah State
+704,Florida National University
+705,Arkansas-Pine Bluff
+706,Auburn Montgomery
+707,South Carolina Upstate
+708,North Carolina-Asheville
+709,Texas Christian
+710,Southeastern Louisiana
+711,Texas A&M-Corpus Christi
+712,Our Lady of the Lake
+713,St. John's (NY)
+714,St. Bonaventure
+715,Green Bay
+716,Kean
+717,Coastal Carolina
+718,College of Charleston
+719,South Carolina State
+720,Southeast Missouri State
+721,Chicago State
+722,Illinois Tech
+723,North Carolina Central
+724,Western Carolina
+725,Eastern Kentucky
+726,Coppin State
+727,Eastern Michigan
+728,Florida International
+729,Trinity Baptist
+730,Johnson University
+731,Milwaukee
+732,Delaware State
+733,Simpson
+734,Seton Hill
+735,Central Michigan
+736,Jacksonville State
+737,Alabama-Birmingham
+738,Stephen F. Austin
+739,Trinity (FL)
+740,Kennesaw State
+741,Abilene Christian
+742,University of the Southwest
+743,Sacramento State
+744,Arizona State
+745,Southern
+746,North Dakota State
+747,UC-Davis
+748,UC-Irvine
+749,UC-San Diego
+750,Central Connecticut State
+751,Montreat
+752,University of California
+753,Ball State
+754,Brigham Young
+755,Boston University
+756,Pittsburgh-Bradford
+757,Shenandoah
+758,Covenant
+759,Randolph
+760,Louisiana-Lafayette
+761,Louisiana College
+762,Louisiana State
+763,McNeese State
+764,Louisiana-Monroe
+765,McMurry
+766,Kansas State
+767,Maryland-Eastern Shore
+768,Iowa State
+769,Northern Colorado
+770,Austin College
+771,Albany (NY)
+772,Mount St. Mary's
+773,Miami (FL)
+774,Texas-Rio Grande Valley
+775,Tennessee State
+776,Loyola (MD)
+777,Millsaps
+778,Loyola (IL)
+779,Texas-San Antonio
+780,Loyola Marymount
+781,Cal State Fullerton
+782,Georgia State
+783,Middle Georgia State
+784,Georgia Southern
+785,Massachusetts Institute of Technology
+786,Portland State
+787,Fresno State
+788,George Washington
+789,Illinois-Chicago
+790,Texas Lutheran
+791,Eastern Illinois
+792,Gardner-Webb
+793,Indiana State
+794,Montana State
+795,Idaho State
+796,Great Falls
+797,Oregon State
+798,Northwest Christian
+799,Penn State
+800,Virginia Military Institute
+801,Norfolk State
+802,San Jose State
+803,Mississippi Valley State
+804,North Carolina-Greensboro
+805,Hawaii-Hilo
+806,Florida Gulf Coast
+807,Colorado State
+808,Alabama State
+809,Central Arkansas
+810,Western Kentucky
+811,Campbellsville
+812,Merchant Marine Academy
+813,Southern Methodist
+814,Sam Houston State
+815,Texas-El Paso
+816,Loyola (LA)
+817,West Virginia Tech
+818,Texas-Arlington
+819,Cal State Bakersfield
+820,San Diego Christian
+821,UC-Riverside
+822,William Jessup
+823,Central Florida
+824,Western Michigan
+825,Arkansas-Little Rock
+826,Central Baptist
+827,Cleveland State
+828,Appalachian State
+829,St. Francis (NY)
+830,Bowling Green State
+831,Long Beach State
+832,Brigham Young-Hawaii
+833,Mid-Atlantic Christian
+834,Southern Mississippi
+835,Kent State
+836,Youngstown State
+837,East Tennessee State
+838,Baptist Bible (PA)
+839,Saint Louis
+840,Ohio State
+841,Hannibal-LaGrange
+842,George Fox
+843,Florida State
+844,Nicholls State
+845,North Carolina Wesleyan
+846,William Jewell
+847,Saint Mary's (MN)
+848,Fort Valley State
+849,Texas College
+850,Louisiana State-Alexandria
+851,Pacific Lutheran
+852,New Mexico Highlands
+853,Texas State
+854,Texas-Tyler
+855,Voorhees
+856,Detroit Mercy
+857,Central State (OH)
+858,Texas Wesleyan
+859,Fairleigh Dickinson-Florham
+860,Hiram
+861,Florida Memorial
+862,Long Island University
+863,La Roche
+864,Molloy
+865,Dickinson State (ND)
+866,Saint Joseph's (IN)
+867,Washington Adventist
+868,Middle Tennessee
+869,Colorado Christian
+870,Wentworth
+871,Adams State
+872,St. Thomas (TX)
+873,Westminster
+874,Mount Saint Vincent
+875,Marian
+876,Kenyon
+877,Queens (NY)
+878,Warner Southern
+879,Black Hills State
+880,Valley City State
+881,Roanoke
+882,Indiana-Kokomo
+883,Mississippi College
+884,Cal State Monterey Bay
+885,Grace Bible
+886,Indiana-Northwest
+887,Johnson & Wales (NC)
+888,Centenary (LA)
+889,Thomas University
+890,Goldey-Beacom
+891,Belmont Abbey
+892,Pensacola Christian
+893,Mobile
+894,Trinity Christian
+895,Antelope Valley
+896,Alcorn State
+897,Emmanuel
+898,Trinity International (IL)
+899,Embry-Riddle Aeronautical University
+900,Union (TN)
+901,Texas A&M-Kingsville
+902,Siena Heights
+903,Florida College
+904,Medgar Evers
+905,Emporia State
+906,Bob Jones University
+907,SUNY-Oneonta
+908,Central Pennsylvania College
+909,Kentucky State
+910,Carroll
+911,Linfield
+912,Louisiana State-Shreveport
+913,Minnesota-Duluth
+914,Notre Dame (CA)
+915,Rochester (MI)
+916,St. Edward's
+917,William Carey
+918,Chestnut Hill
+919,Penn State-Harrisburg
+920,Michigan-Dearborn
+921,Concordia (OR)
+922,South Dakota School of Mines
+923,Mt. St. Joseph
+924,Cal State Los Angeles
+925,Roosevelt
+926,East Mennonite
+927,Dubuque
+928,Tabor College
+929,Gallaudet
+930,Thomas More
+931,Lincoln
+932,Alaska-Anchorage
+933,William Woods
+934,Cincinnati-Clermont
+935,Farmingdale State
+936,Staten Island
+937,Multnomah
+938,Denison
+939,Madonna
+940,Maine-Fort Kent
+941,Texas-Permian Basin
+942,Wiley
+943,Paul Quinn
+944,Selma University
+945,Waldorf
+946,Cal State Dominguez Hills
+947,Wayne State (NE)
+948,Bethesda University (CA)
+949,Mercy
+950,Silver Lake
+951,Fort Lewis
+952,Kentucky Christian
+953,Dallas Christian
+954,Master's
+955,Sul Ross State
+956,Angelo State
+957,Biola
+958,Worcester State
+959,Henderson State
+960,Tennessee Wesleyan
+961,John Brown
+962,York (PA)
+963,Arkansas-Fort Smith
+964,Utica
+965,Cumberland
+966,North Greenville
+967,Coastal Georgia
+968,Williams Baptist
+969,Arkansas-Monticello
+970,Blue Mountain College
+971,Tampa
+972,Arlington Baptist
+973,Hawaii Pacific
+974,Wesley
+975,Judson
+976,Virginia Wise
+977,Le Tourneau
+978,Saint Martin's
+979,Columbia International
+980,Ohio Dominican
+981,Geneva
+982,East Central
+983,Albany State (GA)
+984,Hardin-Simmons
+985,Bluefield (WV)
+986,Illinois-Springfield
+987,Northwest Indian College
+988,Maryville (MO)
+989,Mary Washington
+990,New Hope Christian
+991,Ursinus
+992,Missouri Valley
+993,Fisher College
+994,Rio Grande
+995,Life Pacific
+996,Wisconsin-Superior
+997,Montana Western
+998,Johnson & Wales
+999,Purdue Calumet
+1000,Widener
+1001,College of Idaho
+1002,Cairn
+1003,Methodist
+1004,Western Oregon
+1005,Southeastern Oklahoma
+1006,St. Andrews
+1007,Regis
+1008,Cedarville
+1009,Western State
+1010,Arizona Christian
+1011,Bridgewater (VA)
+1012,Francis Marion
+1013,Lees-McRae
+1014,Westminster (MO)
+1015,Trevecca Nazarene
+1016,Lourdes
+1017,Boyce
+1018,Point Loma Nazarene
+1019,Cal State East Bay
+1020,Purdue North Central
+1021,Ryerson
+1022,Pine Manor
+1023,Bryn Athyn
+1024,Cheyney
+1025,St. Ambrose
+1026,Northern New Mexico
+1027,Benedictine (AZ)
+1028,Bowie State
+1029,St. Catharine
+1030,York (NE)
